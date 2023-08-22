@@ -20,6 +20,7 @@
 		738A0A0B2A8F3BD5002999C1 /* ConstantsTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 738A0A0A2A8F3BD5002999C1 /* ConstantsTemplate.swift */; };
 		738A0A0D2A94B4FD002999C1 /* VideoTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 738A0A0C2A94B4FD002999C1 /* VideoTableViewCell.swift */; };
 		738A0A142A94C234002999C1 /* CacheManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 738A0A132A94C234002999C1 /* CacheManager.swift */; };
+		738A0A162A94CA1A002999C1 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 738A0A152A94CA1A002999C1 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		738A0A0A2A8F3BD5002999C1 /* ConstantsTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstantsTemplate.swift; sourceTree = "<group>"; };
 		738A0A0C2A94B4FD002999C1 /* VideoTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoTableViewCell.swift; sourceTree = "<group>"; };
 		738A0A132A94C234002999C1 /* CacheManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CacheManager.swift; sourceTree = "<group>"; };
+		738A0A152A94CA1A002999C1 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +89,7 @@
 			isa = PBXGroup;
 			children = (
 				7380F2142A8B7B2E000E07D1 /* ViewController.swift */,
+				738A0A152A94CA1A002999C1 /* DetailViewController.swift */,
 			);
 			path = "View Controllers";
 			sourceTree = "<group>";
@@ -199,6 +202,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				738A0A162A94CA1A002999C1 /* DetailViewController.swift in Sources */,
 				7380F2152A8B7B2E000E07D1 /* ViewController.swift in Sources */,
 				7380F2112A8B7B2E000E07D1 /* AppDelegate.swift in Sources */,
 				7380F2132A8B7B2E000E07D1 /* SceneDelegate.swift in Sources */,
